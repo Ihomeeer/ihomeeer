@@ -9,4 +9,4 @@
 
 📫 You can write me: ihomeer@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ihomeeer/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ihomeeer)](https://github.com/ihomeeer/github-readme-stats)

@@ -9,4 +9,9 @@
 
 📫 You can write me: ihomeer@gmail.com
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ihomeeer)](https://github.com/ihomeeer/github-readme-stats)
+<div style="display: inline_block"; margin: 10px auto;>
+</div>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ihomeeer&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihomeeer&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)

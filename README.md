@@ -8,3 +8,5 @@
 🌱 I’m looking to collaborate on different projects. Available for hiring.
 
 📫 You can write me: ihomeer@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ihomeeer/github-readme-stats)

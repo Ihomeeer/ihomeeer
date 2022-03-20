@@ -1,4 +1,4 @@
-# Hi, I’m Mikhail, 27 y.o. frontend dev 👋 
+# Hi, I’m Mikhail, 28 y.o. frontend dev 👋 
 
 
 🌱 I’m interested in process of creating websites and apps.

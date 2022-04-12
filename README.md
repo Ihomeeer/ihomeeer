@@ -1,5 +1,4 @@
-<h1 align="center">I’m Mikhail, 28 y.o. frontend dev<h1>
-
+<h1 align="center">I’m Mikhail, 28 y.o. frontend dev</h1>
 
 🌱 I’m interested in process of creating websites and apps.
 

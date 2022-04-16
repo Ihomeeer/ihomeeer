@@ -6,7 +6,8 @@
 
 🌱 I’m looking to collaborate on different projects. Available for hiring.
 
-📫 You can write me: mikhail.kirichkov@gmail.com
+E-mail: mikhail.kirichkov@gmail.com
+Telegram: https://t.me/iHomeer
 
 ## Technology Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-011?&logo=HTML5)

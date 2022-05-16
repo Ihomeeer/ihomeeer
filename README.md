@@ -15,6 +15,7 @@ Telegram: https://t.me/iHomeer
 ![JavaScript](https://img.shields.io/badge/-JavaScript-011?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-011?&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-011?logo=redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-011?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-011?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-011?logo=express)
 ![GIT](https://img.shields.io/badge/-GIT-011?&logo=GIT)
@@ -22,6 +23,8 @@ Telegram: https://t.me/iHomeer
 ![ESLint](https://img.shields.io/badge/-ESLint-011?&logo=ESLint)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-011?&logo=MongoDB)
 ![Figma](https://img.shields.io/badge/-Figma-011?&logo=Figma)
+
+
 
 
 

@@ -2,7 +2,7 @@
 
 🌱 I’m interested in process of creating websites and apps.
 
-🌱 I’m currently learning Javasript, React, Redux, Node.js.
+🌱 I’m currently learning TypeScript, Kotlin, Redux.
 
 🌱 I’m looking to collaborate on different projects. Available for hiring.
 

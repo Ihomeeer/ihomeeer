@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning TypeScript, Kotlin, Redux.
 
-🌱 I’m looking to collaborate on different projects. Available for hiring.
+🌱 I’m looking to collaborate on different projects.
 
 E-mail: mikhail.kirichkov@gmail.com
 Telegram: https://t.me/iHomeer
